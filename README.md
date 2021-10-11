@@ -1,3 +1,3 @@
 # React Pomodoro
 
-Bootcamp capstone demonstrating advanced routing and rendering with React: an interactive app with minimal styling that lets users create, manage, and study decks of flashcards.
+Bootcamp capstone demonstrating the basic functionality of React: a Pomodoro timer app that uses state variables and conditional rendering, with minimal styling from the Bootstrap library.
